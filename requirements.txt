@@ -5,3 +5,5 @@ djangorestframework-simplejwt==4.6.0
 gunicorn==20.1.0
 python-dotenv==0.16.0
 whitenoise==5.2.0
+mysqlclient==2.0.3
+sqlparse==0.4.1
